@@ -43,7 +43,7 @@ export const Form = styled.form<FormProps>`
     height: 70px;
     background: #04d361;
     border-radius: 0 5px 5px 0;
-    border: 0;
+    border: 2px solid #04d361;
     color: #fff;
     font-weight: bold;
     transition: background-color 0.2s;
